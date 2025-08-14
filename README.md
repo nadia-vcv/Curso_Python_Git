@@ -26,18 +26,3 @@ Este repositorio contiene todos los **ejercicios del curso de Estadística con P
 - **12_linear_regression**  Regresiones lineales.
 - **13_spearman_correlation**  Cálculo de correlaciones de Spearman y Pearson.
 
----
-
-## 📌 Instrucciones de uso
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/tuusuario/Curso_Python_Git.git
-   ```
-2. Abrir en Visual Studio Code.
-3. Navegar a la carpeta de la semana y ejercicio que se quiera revisar.
-4. Ejecutar el código en Python o Jupyter Notebook según corresponda.
-
----
-
-✏ **Autor:** Nad CV  
-📅 **Curso:** Estadística con Python
