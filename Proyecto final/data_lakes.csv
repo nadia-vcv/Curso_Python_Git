@@ -1,0 +1,93 @@
+﻿Lago ,Referencia,Mes,Estación,Época,Lugar ,Hemisferio ,Zona climática ,PT (mg/L),NT (mg/L),PT (mmol),NT (mmol)
+Laguna,"Herrera y Nadaoka, 2020",7,Verano,Verano,Filipinas,Norte,Tropical ,0.07,0.02,0.0023,0.00
+Laguna,"Herrera y Nadaoka, 2020",12,Otoño,Otro,Filipinas,Norte,Tropical ,0.09,0.04,0.0029,0.00
+Experimento ,"Kelly et al., 2021",7,Verano,Verano,"Mississipi, USA",Norte,Subtropical,0.10,0.55,0.0031,0.04
+Kastoria ,"Stefanidis y Dimitriou, 2019",1,Invierno,Otro,Grecia (mediterráneo),Norte,Templada,0.2,0.27,0.0065,0.02
+Kastoria ,"Stefanidis y Dimitriou, 2020",7,Verano,Verano,Grecia (mediterráneo),Norte,Templada,0.2,0.27,0.0065,0.02
+Beeshazar,"Niraula, 2012",ANUAL,Otoño,Otro,Nepal ,Norte,Subtropical,0.22,1.32,0.0071,0.09
+Valguta Mustjarv,Cremona et al. 2016,7,Verano,Verano,Estonia ,Norte,Templada,0.24,0.67,0.0078,0.05
+Jagadishpurn verano,"Gautam y Bhattarai, 2008",7,Verano,Verano,Nepal,Norte,Subtropical,0.39,1.27,0.0125,0.09
+Waskana ,"Bogard, 2017",7,Verano,Verano,Canadá,Norte,Templada,0.45,1.15,0.0146,0.08
+Arreso ,"Andersen, 1976",10,Otoño,Otro,Dinamarca,Norte,Templada,0.80,1.46,0.0259,0.10
+Endhó,Informe Endhó ,ANUAL,Otoño,Otro,"Hidalgo, MEX ",Norte,Tropical ,3.7,19.6,0.1197,1.40
+Nabor Carrillo ,"Conagua, 2021",,,,Texcoco ,Norte,Tropical ,11.7,22.7,0.3786,1.62
+Ciénega Grande de Santa Marta,"Sanchez y Zea, 2000",ANUAL,Otoño,Otro,Colombia,Norte,Tropical ,0.45,0.06,0.0144,0.00
+Bogoria,"Oduor y Schagerl, 2007",ANUAL,Otoño,Otro,Kenia,Ecuador,Tropical ,6.2,4.1,0.2021,0.29
+Nakuru,"Oduor y Schagerl, 2008",ANUAL,Otoño,Otro,Kenia,Ecuador,Tropical ,2.4,11.8,0.0780,0.85
+Peri ,Tonetta et al. 2016,11,Otoño,Otro,Brasil ,Sur,Tropical ,0.001,0.01,0.0000,0.00
+Trout,"Hanson et al, 2003; Lotting et al., 2021 ",7,Verano,Verano,"Washington, USA",Norte,Templada,0.004,0.20,0.0001,0.01
+Sunapee,Solomon et al. 2013,ANUAL,Otoño,Otro,"New Hampshire, USA",Norte,Templada,0.01,0.17,0.0002,0.01
+Carioca ,Brighenti et al. 2015,7,Verano,Verano,Brasil ,Sur,Tropical ,0.01,0.26,0.0002,0.02
+Dom Helvecio,Brighenti et al. 2015,7,Verano,Verano,Brasil ,Sur,Tropical ,0.007,0.32,0.0002,0.02
+Dom Helvecio,Brighenti et al. 2015,1,Invierno,Otro,Brasil ,Sur,Tropical ,0.008,0.50,0.0003,0.04
+Ruozutjaure,"Cael y Seekell et al., 2022; Ask et al, 2010",7,Verano,Verano,Suecia ,Norte,Polar,0.01,0.12,0.0003,0.01
+Crampton,Solomon et al. 2013,8,Verano,Verano,"Wisconsin, USA",Norte,Templada,0.01,0.32,0.0003,0.02
+Antu Sinijarv,Cremona et al. 2016,7,Verano,Verano,Estonia ,Norte,Templada,0.009,3.45,0.0003,0.25
+Paul ,"Kritzberb et al., 2006",7,Verano,Verano,"Wisconsin, USA",Norte,Templada,0.01,0.38,0.0003,0.03
+Knivsjön,"Cael y Seekell et al., 2022; Ask et al, 2011",7,Verano,Verano,Suecia ,Norte,Polar,0.01,0.09,0.0004,0.01
+Tuesday ,"Kritzberb et al., 2006",7,Verano,Verano,"Wisconsin, USA",Norte,Templada,0.01,0.40,0.0004,0.03
+Erkkijärvi,"Cael y Seekell et al., 2022; Ask et al, 2009",7,Verano,Verano,Suecia ,Norte,Polar,0.01,0.43,0.0004,0.03
+Trout ,Solomon et al. 2013,ANUAL,Otoño,Otro,"Washington, USA",Norte,Templada,0.01,0.20,0.0004,0.01
+Carioca ,Brighenti et al. 2015,1,Invierno,Otro,Brasil ,Sur,Tropical ,0.017,0.46,0.0005,0.03
+Hampenso,Solomon et al. 2013,ANUAL,Otoño,Otro,Dinamarca,Norte,Templada,0.02,0.58,0.0007,0.04
+Bure,"Giling et al., 2017",7,Verano,Verano,Dinamarca,Norte,Templada,0.02,0.70,0.0007,0.05
+Ward,Batt et al. 2015,4,Primavera,Otro,"Wisconsin, USA",Norte,Templada,0.02,0.49,0.0007,0.04
+Hampen,"Giling et al., 2017",7,Verano,Verano,Dinamarca,Norte,Templada,0.02,0.60,0.0008,0.04
+Lilla Bjorntjarn,"Cael y Seekell et al., 2022; Ask et al, 2012",7,Verano,Verano,Suecia ,Norte,Polar,0.02,0.48,0.0008,0.03
+Peter,"Kritzberb et al., 2006",7,Verano,Verano,"Wisconsin, USA",Norte,Templada,0.03,0.65,0.0009,0.05
+Crystal Bog,Solomon et al. 2013,ANUAL,Otoño,Otro,USA,Norte,Templada,0.03,0.68,0.0009,0.05
+Vedsted,"Giling et al., 2017",7,Verano,Verano,Dinamarca,Norte,Templada,0.03,0.50,0.0009,0.04
+Geneva,"Castro et al., 2021; CIPEL, 2019",6,Primavera,Otro,Francia-Suiza,Norte,Templada,0.03,0.54,0.0009,0.04
+Geneva,"Castro et al., 2021; CIPEL, 2020",10,Otoño,Otro,Francia-Suiza,Norte,Templada,0.03,0.54,0.0009,0.04
+Saadjarv,Cremona et al. 2016,8,Verano,Verano,Estonia ,Norte,Templada,0.03,0.39,0.0010,0.03
+Rotoiti,Solomon et al. 2013,7,Verano,Verano,Nueva Zelanda,Sur,Templada,0.03,0.30,0.0010,0.02
+Rotorua,Solomon et al. 2013,7,Verano,Verano,Nueva Zelanda,Sur,Templada,0.03,0.48,0.0010,0.03
+Monte Alegre ,"Garcia et al, 2010",2,Invierno,Otro,Brasil ,Sur,Tropical ,0.03,1.04,0.0011,0.07
+Monte Alegre ,"Garcia et al, 2010",9,Verano,Verano,Brasil ,Sur,Tropical ,0.03,1.04,0.0011,0.07
+Jagadishpurn otoño,"Gautam y Bhattarai, 2008",11,Otoño,Otro,Nepal,Norte,Subtropical,0.04,0.64,0.0012,0.05
+La Salada ,"Alfonso et al, 2015",4,Primavera,Otro,Argentina,Sur,Templada,0.04,2.4,0.0012,0.17
+Huay Luang ,"Hiroki et al., 2020",12,Otoño,Otro,Tailandia,Norte,Tropical ,0.04,0.75,0.0013,0.05
+Peipsi,Cremona et al. 2016,9,Verano,Verano,Estonia ,Norte,Templada,0.04,0.47,0.0013,0.03
+Erastvere,Cremona et al. 2016,8,Verano,Verano,Estonia ,Norte,Templada,0.05,0.99,0.0015,0.07
+Kentucky,Solomon et al. 2013,ANUAL,Otoño,Otro,"Kentucky, USA",Norte,Templada,0.05,0.79,0.0015,0.06
+Ulemiste,Cremona et al. 2016,7,Verano,Verano,Estonia ,Norte,Templada,0.05,0.72,0.0016,0.05
+Huay Luang ,"Hiroki et al., 2020",7,Verano,Verano,Tailandia,Norte,Tropical ,0.05,0.8,0.0016,0.06
+Experimento,"Kelly et al., 2021",7,Verano,Verano,"Mississipi, USA",Norte,Subtropical,0.05,9.24,0.0018,0.66
+Valle de Bravo,"Sandoval, 2023 (Tesis no publicada)",ANUAL,Otoño,Otro,Edo Méx,Norte,Tropical ,0.06,0.8,0.0019,0.06
+Tonle Sap ,"Hiroki et al., 2020",7,Verano,Verano,Tailandia,Norte,Tropical ,0.06,0.52,0.0019,0.04
+Tonle Sap ,"Hiroki et al., 2020",12,Otoño,Otro,Tailandia,Norte,Tropical ,0.06,1.40,0.0019,0.10
+Mullutu,Cremona et al. 2016,8,Verano,Verano,Estonia ,Norte,Templada,0.06,1,0.0019,0.07
+Mueggel,"Giling et al., 2017",7,Verano,Verano,Alemania,Norte,Templada,0.06,0.80,0.0021,0.06
+Arreso ,"Andersen, 1976",7,Verano,Otro,Dinamarca,Norte,Templada,0.07,3.80,0.0023,0.27
+Balaton,Solomon et al. 2013,7,Verano,Verano,Hungría ,Norte,Templada,0.07,1.66,0.0023,0.12
+Arreso ,"Andersen, 1976",4,Primavera,Otro,Dinamarca,Norte,Templada,0.08,6.73,0.0026,0.48
+Mendota,Solomon et al. 2013,7,Verano,Verano,"Wisconsin, USA",Norte,Templada,0.09,0.96,0.0028,0.07
+Acton ,"Williamson et al., 2020",8,Verano,Verano,"Ohio, USA",Norte,Templada,0.09,3.65,0.0028,0.26
+East Okoboji,"Cornelius, 1958; Universidad de Iowa, 1999; Adamson, 1939 ",9,Verano,Verano,"Iowa, USA",Norte,Polar,0.09,1.26,0.0029,0.09
+Castle,"Giling et al., 2017",7,Verano,Verano,Dinamarca,Norte,Templada,0.09,1.60,0.0030,0.11
+La Salada ,"Alfonso et al, 2015",12,Otoño,Otro,Argentina,Sur,Templada,0.10,5.3,0.0032,0.38
+Fredriksburg Slotsso,Solomon et al. 2013,ANUAL,Otoño,Otro,Dinamarca,Norte,Templada,0.10,1.74,0.0033,0.12
+ESEC,"Almeida et al., 2016; Costa et al., 2015",7,Verano,Verano,Brasil ,Sur,Tropical ,0.10,3.5,0.0034,0.25
+Muggelsee,Solomon et al. 2013,ANUAL,Otoño,Otro,Alemania,Norte,Templada,0.11,0.91,0.0034,0.07
+Little Arbor Vitae,"Hanson et al, 2003; Lauster et al.",7,Verano,Verano,"Wisconsin, USA",Sur,Templada,0.11,0.84,0.0034,0.06
+Santa Olalla,"López-Archilla et al., 2004",7,Verano,Verano,España (mediterráneo),Norte,Templada,0.11,1.98,0.0036,0.14
+Acton,Solomon et al. 2013,7,Verano,Otro,"Ohio, USA",Norte,Templada,0.11,5.84,0.0037,0.42
+D,"Martinsen et al., 2019",5,Primavera,Otro,Suecia ,Norte,Templada,0.13,1.81,0.0041,0.13
+C,"Martinsen et al., 2019",5,Primavera,Otro,Suecia ,Norte,Templada,0.14,1.37,0.0045,0.10
+B,"Martinsen et al., 2019",5,Primavera,Otro,Suecia ,Norte,Templada,0.16,2.46,0.0050,0.18
+REPSA-Sur ,"Lugo et al, 2021",8,Verano,Verano,"CDMX, Méx",Norte,Tropical ,0.17,8.30,0.0055,0.59
+REPSA-Sur ,"Lugo et al, 2021",1,Invierno,Otro,"CDMX, Méx",Norte,Tropical ,0.17,8.30,0.0055,0.59
+Dehtář,"Rutegwa et al, 2019",10,Otoño,Otro,República Checa,Norte,Templada,0.18,2.6,0.0058,0.19
+Taihu,Solomon et al.2013 y Hu et al. 2015,10,Otoño,Otro,China,Norte,Subtropical,0.20,3.6,0.0065,0.26
+University ,"Mesmer, 2011",1,Invierno,Otro,"Luisiana, USA",Sur,Subtropical,0.20,1.75,0.0065,0.13
+REPSA-Centro,"Lugo et al, 2021",8,Verano,Verano,"CDMX, Méx",Norte,Tropical ,0.20,7.90,0.0065,0.56
+REPSA-Centro,"Lugo et al, 2021",1,Invierno,Otro,"CDMX, Méx",Norte,Tropical ,0.20,7.90,0.0065,0.56
+REPSA-Norte,"Lugo et al, 2021",1,Invierno,Otro,"CDMX, Méx",Norte,Tropical ,0.21,6.6,0.0068,0.47
+REPSA-Norte,"Lugo et al, 2021",8,Verano,Verano,"CDMX, Méx",Norte,Tropical ,0.21,6.6,0.0068,0.47
+University ,"Mesmer, 2010",7,Verano,Verano,"Luisiana, USA",Norte,Subtropical,0.30,2.75,0.0097,0.20
+Dehtář,"Rutegwa et al, 2019",8,Verano,Verano,República Checa,Norte,Templada,0.32,2.6,0.0104,0.19
+Santa Olalla,"López-Archilla et al., 2004",12,Otoño,Otro,España (mediterráneo),Norte,Templada,0.68,13.8,0.0220,0.98
+Baringo,"Patterson, 1995",3,Invierno,Otro,Kenia,Ecuador,Tropical ,0.1,0.76,0.0032,0.05
+Elmentita,"Oduor y Schagerl, 2009",ANUAL,Otoño,Otro,Kenia,Ecuador,Tropical ,1.2,26.9,0.0400,1.92
+Chad,"Talling y Lemoalle, 1998",ANUAL,Otoño,Otro,Africa central,Norte,Tropical ,0.04,0.72,0.0012,0.05
+Teganuma,"Takamura, 1989",ANUAL,Otoño,Otro,Japón,Norte,Templada,0.66,7.16,0.0214,0.51
